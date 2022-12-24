@@ -1,3 +1,5 @@
+/***************************************Chapter-1 Variables and Data types *******************************************/
+
 // var is globally scoped, it can be re-declared and also be updated
 var a = "Manu BG";
 console.log(a);
