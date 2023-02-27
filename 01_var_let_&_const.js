@@ -1,5 +1,7 @@
 /***************************************Chapter-1 Variables and Data types *******************************************/
 
+// NOTE:- you can use "node {filename.js}" to run file in terminal
+
 // var is globally scoped, it can be re-declared and also be updated
 var a = "Manu BG";
 console.log(a);
