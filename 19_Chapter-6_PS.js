@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')({ sigint: true });
+
 // Practise Question 1,2 and 3
 const canDrive = (age) => {
     return age >= 18 ? true : false
